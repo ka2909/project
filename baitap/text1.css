@@ -1,0 +1,45 @@
+.vung{
+	width: 80%;
+	height: 800px;
+	background: green;
+	margin: 0 auto;
+}
+.vung h3{
+	color: yellow;
+	float: left;
+	margin-left: 20px;
+}
+.vung1{
+	background: blue;
+	width: 70%;
+	height: 80px;
+	float: left;
+	margin-left: 230px;
+}
+ul{
+	padding: 0;
+	margin: 0;
+}
+ul li a{
+	text-decoration: none;
+	width: 120px;
+	height: 70px;
+	text-align: center;
+	line-height: 50px;
+	display: block;
+	background: blue;
+	color: white;
+}
+ul li{
+	float: left;
+	list-style: none;
+	transition: 1s ease;
+}
+.ima{
+	width: 80%;
+	height: 400px;
+	margin: auto;
+	background-image: url(https://sites.google.com/site/hinhanhdep24h/_/rsrc/1436687439788/home/hinh%20anh%20thien%20nhien%20dep%202015%20%281%29.jpeg);
+	background-size: 100% 500px;
+	
+}
